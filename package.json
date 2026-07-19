@@ -1,7 +1,7 @@
 {
-  "name": "TheGetsuzoZhiro/Baileys",
+  "name": "SiX-CoRe/BailSxC",
   "version": "2.0.3",
-  "description": "WhatsApp Modified By RaditXml",
+  "description": "WhatsApp Modified By Lumnztyz6x",
   "keywords": [
     "whatsapp",
     "laurine-wabot",
@@ -12,12 +12,12 @@
     "botwa",
     "stvnnvs"
   ],
-  "homepage": "https://github.com/TheGetsuzoZhiro/Baileys",
+  "homepage": "https://github.com/SiX-CoRe/BailSxC",
   "repository": {
-    "url": "https://github.com/TheGetsuzoZhiro/Baileys"
+    "url": "https://github.com/SiX-CoRe/BailSxC"
   },
   "license": "MIT",
-  "author": "Getsuzo - Company",
+  "author": "sixcorecomunity",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "files": [
